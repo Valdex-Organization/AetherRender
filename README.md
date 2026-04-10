@@ -1,3 +1,5 @@
+![Alt text for the image](https://github.com/Valdex-Organization/ClassicAspects/blob/main/Images/AetherRender.png)
+
 # AetherRender
 
 Advanced Mobile Lighting & Rendering Overhaul. AetherRender is a cutting-edge AML (Android Mod Loader) graphics modification for *GTA San Andreas Mobile*, built to push the boundaries of what the mobile version of the game is capable of achieving. Designed with precision, ambition, and respect for the original visual identity, AetherRender transforms the entire rendering pipeline into a modern, highly advanced system that delivers both realism and authenticity.
@@ -54,5 +56,13 @@ AetherRender is more than just a mod—it is a vision of what *GTA San Andreas M
 • In-game graphics settings menu for customization
 • Performance presets (Low / Medium / High / Ultra)
 • Bug fixes, stability improvements, and code optimization
+
+# Progress
+
+- [x] Load AetherRender
+- [ ] Custom Dictionary
+- [ ] Features
+- [ ] Vulkan API
+- [ ] Renderer
 
 AetherRender is constantly evolving, with new features and improvements being developed over time. The goal is simple: to deliver the most advanced, realistic, and complete graphical overhaul ever created for # GTA San Andreas Mobile.

@@ -1,4 +1,4 @@
-![Alt text for the image](https://github.com/Valdex-Organization/ClassicAspects/blob/main/Images/AetherRender.png)
+![Alt text for the image](https://github.com/Valdex-Organization/AetherRender/blob/main/AetherRender.png)
 
 # AetherRender
 

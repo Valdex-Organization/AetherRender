@@ -2,7 +2,7 @@
 
 # AetherRender
 
-![armeabi-v7a](https://img.shields.io/badge/armeabi--v7a-available-black)
+![armeabi-v7a](https://img.shields.io/badge/armeabi--v7a-coming-soon-black)
 ![arm64-v8a](https://img.shields.io/badge/arm64--v8a-available-black)
 
 Advanced Mobile Lighting & Rendering Overhaul. AetherRender is a cutting-edge AML (Android Mod Loader) graphics modification for *GTA San Andreas Mobile*, built to push the boundaries of what the mobile version of the game is capable of achieving. Designed with precision, ambition, and respect for the original visual identity, AetherRender transforms the entire rendering pipeline into a modern, highly advanced system that delivers both realism and authenticity.

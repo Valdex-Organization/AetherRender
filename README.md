@@ -63,10 +63,9 @@ AetherRender is more than just a mod—it is a vision of what *GTA San Andreas M
 # Progress
 
 - [x] Load AetherRender
+- [x] Vulkan and Other API
 - [ ] Custom Dictionary
 - [ ] Features
-- [x] Vulkan API
-- [x] Other API
 - [ ] Renderer
 
 AetherRender is constantly evolving, with new features and improvements being developed over time. The goal is simple: to deliver the most advanced, realistic, and complete graphical overhaul ever created for # GTA San Andreas Mobile.
